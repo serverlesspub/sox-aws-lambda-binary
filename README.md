@@ -2,7 +2,7 @@
 
 Run Sound eXchange (SoX), the Swiss Army knife of audio manipulation, with Lame on AWS Lambda.
 
-This is a static binary of [sox](http://sox.sourceforge.net) utility, built for AWS Lambda, deployable as an AWS lambda layer. It can help you get started quickly with RSVG inside Lambda functions. It supports `sox`, `soxi` and `lame` commands.
+This is a static binary of [sox](http://sox.sourceforge.net) utility, built for AWS Lambda, deployable as an AWS lambda layer. It can help you get started quickly with SoX inside Lambda functions. It supports `sox`, `soxi` and `lame` commands.
 
 ## Use within Lambda
 
